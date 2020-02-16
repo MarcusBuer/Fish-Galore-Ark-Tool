@@ -17,17 +17,17 @@ On the game settings you need to change:
 
 
 # :computer: How to use
-- Run the program as Admin (right click on the executable -> Run as Admin)
+1- Run the program as Admin (right click on the executable -> Run as Admin)
 
-- Open the game, connect to your server, sit on a place to start fishing (Pelagornis, Raft with Chair, or just a chair on the shoreline).
+2- Open the game, connect to your server, sit on a place to start fishing (Pelagornis, Raft with Chair, or just a chair on the shoreline).
 
-- On your inventory, put your bait one every fishing rod you have, then put the rods on the hotbar (1~9).
+3- On your inventory, put your bait one every fishing rod you have, then put the rods on the hotbar (1~9).
 
-- Using the first fishing rod on the hotbar, cast the line on the water and press the F2 key to start the fishing script.
+4- Using the first fishing rod on the hotbar, cast the line on the water and press the F2 key to start the fishing script.
 
-- If you are using more than one rod you can press the F3 key to enable auto switching (makes the rods last longer by switching everytime it catches a fish), then adjust the last fishing rod on the hotbar pressing F6 and the first fishing rod on the hotbar pressing F4.
+5- If you are using more than one rod you can press the F3 key to enable auto switching (makes the rods last longer by switching everytime it catches a fish), then adjust the last fishing rod on the hotbar pressing F6 and the first fishing rod on the hotbar pressing F4.
 
-- To stop fishing just press F2 again.
+6- To stop fishing just press F2 again.
 
 
 
