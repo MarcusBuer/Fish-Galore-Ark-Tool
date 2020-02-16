@@ -46,7 +46,7 @@ If it doesn't work please take screenshots of every letter (A, C, D, E, Q, S, W,
 
 
 # :poop: Is this safe to Download?
-If you trust me you can [download the executable](https://github.com/Mechanically/Fish-Galore-Ark-Tool/releases/latest) and run without any hastle.
+If you trust me you can [download the executable](https://github.com/Mechanically/Fish-Galore-Ark-Tool/releases/latest) and run without any hassle.
 
 But to be fair you should never really trust unknown programs you download from the internet.
 
