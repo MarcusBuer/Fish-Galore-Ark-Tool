@@ -32,16 +32,16 @@ On the game settings you need to change:
 
 
 # :tv: Compatible Resolutions
-16:9:
+16:9 aspect ratio:
 - [x] 1920x1080
 - [x] 1366x768
 
-16:10
+16:10 aspect ratio:
 - [x] 1680x1050
 
-You don't see your resolution on the list? Try it anyway... the program tries to interpolate to unknown resolutions.
+You don't see your resolution on this list? Try it anyway... the program tries to interpolate to unknown resolutions.
 
-If it doesn't work take screenshots of every letter (A, C, D, E, Q, S, W, X and Z) and send to me on an Issue so I can add it.
+If it doesn't work please take screenshots of every letter (A, C, D, E, Q, S, W, X and Z) and send to me on an Issue so I can add it to the script.
 
 
 
@@ -63,6 +63,18 @@ That's why you may want to peek the code to check if there is something suspicio
 
 # :bomb: It is not working, what should I do?
 If the script isn't working or has a bug please let me know what happened by opening an Issue.
+
+
+
+# :clipboard: Methodology to find the letters
+
+To find the letter unique positions I took screenshots of every letter the game asks, imported them on Krita (opensource image editing software), then colored and cut each letter to a new layer.
+
+After that I overlaped all the letters and cut the intersection between them. The few parts that remained where the unique positions of each letter.
+
+But 3 of the letters (S, E and C) were totally overlaped (no unique positions). I did the same procedure above, but now with only these 3 letters to have the unique positions between them.
+
+So the script first tries to get the easy letters, and if one was not found it iterates between the hard letters comparing against the easy letters.
 
 
 
