@@ -65,13 +65,22 @@ If the script isn't working or has a bug please let me know what happened by ope
 
 
 # Credits to 
+
   - Spencer J Potts
+  
   Contribution:
+  
     Methodology for detecting letters and Catch message;
-    Points for the resolution 1920x1080
+    
+    Points for the resolution 1920x1080;
+    
   GitHub: https://github.com/SpencerJPotts
 
   - Linear Spoon
+  
   Contribution:
-    CaptureScreen() Script, used to save screenshots
+  
+    CaptureScreen() Script, used to save screenshots;
+    
   GitHub: https://github.com/LinearSpoon/
+  
