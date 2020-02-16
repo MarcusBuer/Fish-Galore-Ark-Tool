@@ -3,7 +3,7 @@
 
 This tool automates the fishing aspect of the game by analysing the screen to identify which key is being required by the game and simulate the keypress.
 
-It automatically modifies the Gamma value of the game engine to increase the contrast (makes identification easier), cycles between rods to increase the time which the tool can run autonomously, and when a fish is captured it saves a screenshot so the user can check the catches.
+It automatically modifies the Gamma value of the game engine to increase the contrast (makes identification easier), cycles between rods to increase the time which the tool can run autonomously, and when a fish is captured it saves a screenshot so you can check the catches later.
 
 
 
