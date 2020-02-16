@@ -46,9 +46,11 @@ If it doesn't work take screenshots of every letter (A, C, D, E, Q, S, W, X and 
 
 
 # :poop: Is this safe to Download?
-To be fair you should never fully trust programs you download from the internet.
+If you trust me you can [download the executable](https://github.com/Mechanically/Fish-Galore-Ark-Tool/releases/latest) and run without any hastle.
 
-That's why you may want to peek to check if there is something suspicious, and can run the script following this steps:
+But to be fair you should never really trust unknown programs you download from the internet.
+
+That's why you may want to peek the code to check if there is something suspicious, and after that you can run the script following this steps:
 
 1. Download the tool Autohotkey on [autohotkey.com](https://www.autohotkey.com/)
 2. Download this script from [https://github.com/Mechanically/Fish-Galore-Ark-Tool](https://github.com/Mechanically/Fish-Galore-Ark-Tool)
