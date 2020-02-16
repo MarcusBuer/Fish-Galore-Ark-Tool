@@ -9,7 +9,9 @@ It automatically modifies the Gamma value of the game engine to increase the con
 
 # Configuration
 On the game settings you need to change:
+
 **Window Mode:** WindowedFullscreen
+
 **UI General Scaling:** Move the slider all the way to the right side
 
 
