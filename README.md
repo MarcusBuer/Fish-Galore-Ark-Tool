@@ -87,7 +87,7 @@ So the script first tries to get the easy letters, and if one was not found it i
 
 # :scroll: Credits
 
-  - Spencer J Potts
+  **- Spencer J Potts**
     
     Contribution:
     
@@ -98,7 +98,7 @@ So the script first tries to get the easy letters, and if one was not found it i
     GitHub: https://github.com/SpencerJPotts
 
 
-  - Linear Spoon
+  **- Linear Spoon**
     
     Contribution:
       
@@ -107,7 +107,7 @@ So the script first tries to get the easy letters, and if one was not found it i
     GitHub: https://github.com/LinearSpoon/
   
 
-  - Steve Gray (Lexikos)
+  **- Steve Gray (Lexikos)**
     
     Contribution:
       
@@ -116,7 +116,7 @@ So the script first tries to get the easy letters, and if one was not found it i
     GitHub: https://github.com/Lexikos
 
 
-  - HinkerLoden
+  **- HinkerLoden**
     
     Contribution:
       
