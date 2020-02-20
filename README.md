@@ -27,8 +27,15 @@ On the game settings you need to change:
 
 5- If you are using more than one rod you can press the F3 key to enable auto switching (makes the rods last longer by switching everytime it catches a fish), then adjust the last fishing rod on the hotbar pressing F6 and the first fishing rod on the hotbar pressing F4.
 
-6- To stop fishing just press F2 again.
+6- If you want to hide the Information Box on the left corner press F1
 
+
+# :speak_no_evil: Can I run the game on the background while I use the PC? 
+Yes! Since version v1.1 this tool can run on background. So you can alt-tab to other windows and the tool will still work. 
+
+But there is a caveat: Windows don't free as much resources for things that run on the background (the game runs with lower FPS), and the method used for finding the letters while in background is considerably more hardware intensive. 
+
+If you have a powerfull PC this probably won't be an issue, but if your PC is a bit old the script may stop once in a while due to the fishing lines snapping. If that's the case I also included an option to make the Ark window goes to front everytime a fish is hooked, so you may use the PC of other stuff, but you'll be frequently interrupted when you catch a fish. To enable this option just press F7 while fishing.
 
 
 # :tv: Compatible Resolutions
