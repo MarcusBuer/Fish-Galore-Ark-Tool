@@ -78,12 +78,12 @@ So the script first tries to get the easy letters, and if one was not found it i
 
 
 
-# :scroll: Credits to 
+# :scroll: Credits
 
   - Spencer J Potts
-  
+    
     Contribution:
-  
+    
       Methodology for detecting letters and Catch message;
     
       Points for the resolution 1920x1080;
@@ -92,29 +92,29 @@ So the script first tries to get the easy letters, and if one was not found it i
 
 
   - Linear Spoon
-  
-    Contribution:
-  
-      CaptureScreen() Script, used to save screenshots;
     
+    Contribution:
+      
+      CaptureScreen() Script, used to save screenshots;
+      
     GitHub: https://github.com/LinearSpoon/
   
 
   - Steve Gray (Lexikos)
-
-		Contribution:
-
-			PixelColorSimple() Script, used to check letters while minimized
-
-		GitHub: https://github.com/Lexikos
+    
+    Contribution:
+      
+      PixelColorSimple() Script, used to check letters while minimized
+      
+    GitHub: https://github.com/Lexikos
 
 
   - HinkerLoden
-
-		Contribution:
-
-			F_RGB_Compare() Script, used to compare the letter colors
-
-			F_ColorHex2RGB() Script, used to transform HEX colors codes in RGB
-
+    
+    Contribution:
+      
+      F_RGB_Compare() Script, used to compare the letter colors
+      
+      F_ColorHex2RGB() Script, used to transform HEX colors codes in RGB
+      
 		GitHub: https://github.com/HinkerLoden
