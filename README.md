@@ -35,7 +35,7 @@ Yes! Since version v1.1 this tool can run with the game on background. So you ca
 
 But there is a caveat: Windows don't free as much resources for things that run on the background (the game runs with lower FPS), and the method used for finding the letters while in background is considerably more hardware intensive. 
 
-If you have a powerfull PC this probably won't be an issue, but if your PC is a bit old the script may stop once in a while due to the fishing lines snapping. If that's the case I also included an option to make the Ark window goes to front everytime a fish is hooked, so you may use the PC of other stuff, but you'll be frequently interrupted when you catch a fish. To enable this option just press F7 while fishing.
+If you have a powerfull PC this probably won't be an issue, but if your PC is a bit old the script may stop once in a while due to the fishing lines snapping. If that's the case I also included an option to make the Ark window goes to front everytime a fish is hooked, so you may use the PC of other stuff, but you'll be frequently interrupted when you catch a fish. To enable this option press F7 while fishing.
 
 
 # :tv: Compatible Resolutions
