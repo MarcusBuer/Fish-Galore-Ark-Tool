@@ -258,11 +258,11 @@ UpdateGUI() {
 }
 
 AdjustGamma(gamma) {
-  Send {Tab}
+	ControlSend, , {Tab}, ahk_class UnrealWindow
   Sleep 50
-  Send gamma %gamma%
+	ControlSend, , gamma %gamma%, ahk_class UnrealWindow
   Sleep 50
-  Send {Enter}
+	ControlSend, , {Enter}, ahk_class UnrealWindow
   Sleep 50
 }
 
@@ -374,7 +374,7 @@ SwitchRods() {
   if (currentRod > maxRod) {
     currentRod := firstRod
   }
-  Send, %currentRod%
+	ControlSend, , %currentRod%, ahk_class UnrealWindow
   }
   UpdateGUI()
 }
