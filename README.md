@@ -117,4 +117,4 @@ So the script first tries to get the easy letters, and if one was not found it i
       
       F_ColorHex2RGB() Script, used to transform HEX colors codes in RGB
       
-		GitHub: https://github.com/HinkerLoden
+    GitHub: https://github.com/HinkerLoden
