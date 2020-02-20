@@ -90,6 +90,7 @@ So the script first tries to get the easy letters, and if one was not found it i
     
     GitHub: https://github.com/SpencerJPotts
 
+
   - Linear Spoon
   
     Contribution:
@@ -98,3 +99,22 @@ So the script first tries to get the easy letters, and if one was not found it i
     
     GitHub: https://github.com/LinearSpoon/
   
+
+  - Steve Gray (Lexikos)
+
+		Contribution:
+
+			PixelColorSimple() Script, used to check letters while minimized
+
+		GitHub: https://github.com/Lexikos
+
+
+  - HinkerLoden
+
+		Contribution:
+
+			F_RGB_Compare() Script, used to compare the letter colors
+
+			F_ColorHex2RGB() Script, used to transform HEX colors codes in RGB
+
+		GitHub: https://github.com/HinkerLoden
