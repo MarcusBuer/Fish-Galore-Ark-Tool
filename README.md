@@ -30,8 +30,8 @@ On the game settings you need to change:
 6- If you want to hide the Information Box on the left corner press F1
 
 
-# :speak_no_evil: Can I run the game on the background while I use the PC? 
-Yes! Since version v1.1 this tool can run on background. So you can alt-tab to other windows and the tool will still work. 
+# :speak_no_evil: Can I run the game on the background?
+Yes! Since version v1.1 this tool can run with the game on background. So you can alt-tab to other windows and the tool will still work. 
 
 But there is a caveat: Windows don't free as much resources for things that run on the background (the game runs with lower FPS), and the method used for finding the letters while in background is considerably more hardware intensive. 
 
