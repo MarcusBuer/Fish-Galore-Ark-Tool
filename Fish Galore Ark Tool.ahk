@@ -50,6 +50,7 @@ SendMode Input
 ;;													 		Admin Check
 If not A_IsAdmin {
   DllCall("shell32\ShellExecuteA", uint, 0, str, "RunAs", str, A_AhkPath, str, """" . A_ScriptFullPath . """", str, A_WorkingDir, int, 1)
+	MsgBox, 4112, , This tool should be executed with Admin Privileges. `nClick with the right mouse key and choose "Run as Admin".
   ExitApp
 }
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
