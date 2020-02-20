@@ -23,19 +23,19 @@ On the game settings you need to change:
 
 3- On your inventory, put your bait one every fishing rod you have, then put the rods on the hotbar (1~9).
 
-4- Using the first fishing rod on the hotbar, cast the line on the water and press the F2 key to start the fishing script.
+4- Using the first fishing rod on the hotbar, cast the line on the water and press the **F2** key to start the fishing script.
 
-5- If you are using more than one rod you can press the F3 key to enable auto switching (makes the rods last longer by switching everytime it catches a fish), then adjust the last fishing rod on the hotbar pressing F6 and the first fishing rod on the hotbar pressing F4.
+5- If you are using more than one rod you can press the **F3** key to enable auto switching (makes the rods last longer by switching everytime it catches a fish), then adjust the last fishing rod on the hotbar pressing **F6** and the first fishing rod on the hotbar pressing **F4**.
 
-6- If you want to hide the Information Box on the left corner press F1
+6- If you want to hide the Information Box on the left corner press **F1**
 
 
 # :speak_no_evil: Can I run the game on the background?
-Yes! Since version v1.1 this tool can run with the game on background. So you can alt-tab to other windows and the tool will still work. 
+Yes! Since version v1.1 this tool can run with the game on background. If you press alt-tab to change to other windows the tool will still work.
 
 But there is a caveat: Windows don't free as much resources for things that run on the background (the game runs with lower FPS), and the method used for finding the letters while in background is considerably more hardware intensive. 
 
-If you have a powerfull PC this probably won't be an issue, but if your PC is a bit old the script may stop once in a while due to the fishing lines snapping. If that's the case I also included an option to make the Ark window goes to front everytime a fish is hooked, so you may use the PC of other stuff, but you'll be frequently interrupted when you catch a fish. To enable this option press F7 while fishing.
+If you have a powerfull PC this probably won't be an issue, but if your PC is a bit old the script may stop once in a while due to the fishing lines snapping. If that's the case I also included an option to make the Ark window goes to front everytime a fish is hooked, so you may use the PC of other stuff, but you'll be frequently interrupted when you catch a fish. To enable this option press **F7** while fishing.
 
 
 # :tv: Compatible Resolutions
@@ -48,7 +48,7 @@ If you have a powerfull PC this probably won't be an issue, but if your PC is a 
 
 You don't see your resolution on this list? Try it anyway... the program tries to interpolate to unknown resolutions.
 
-If it doesn't work please take screenshots of every letter (A, C, D, E, Q, S, W, X and Z) and send to me on an Issue so I can add it to the script.
+If it doesn't work please take screenshots of every letter (A, C, D, E, Q, S, W, X and Z) and [send to me on an Issue](https://github.com/Mechanically/Fish-Galore-Ark-Tool/issues/new) so I can add it to the script.
 
 
 
